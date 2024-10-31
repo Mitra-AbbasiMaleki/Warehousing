@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Warehousing/1.0.0": {
+        "dependencies": {
+          "BaseBackend": "1.0.0"
+        },
+        "runtime": {
+          "Warehousing.dll": {}
+        }
+      },
+      "BaseBackend/1.0.0": {
+        "runtime": {
+          "BaseBackend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Warehousing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseBackend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
